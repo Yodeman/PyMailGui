@@ -1,0 +1,2 @@
+bg = 'beige'
+fg = 'black'
